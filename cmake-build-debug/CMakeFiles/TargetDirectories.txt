@@ -1,0 +1,3 @@
+Z:/Projects/SisProgLab1/cmake-build-debug/CMakeFiles/SisProgLab1.dir
+Z:/Projects/SisProgLab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+Z:/Projects/SisProgLab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
